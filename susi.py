@@ -5,7 +5,7 @@ from telebot import types
 import keyboard as kb
 
 
-TOKEN = '1606484661:AAHhyYbIqQSOu3WRpCQ93sHwfpLRi7QDtyg'
+TOKEN = '160648Ri7QDtyg'
 
 bot = telebot.TeleBot(TOKEN)
 
